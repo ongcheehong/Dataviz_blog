@@ -15,5 +15,22 @@
     "preview": {},
     "last_modified": "2021-05-22T10:26:49+08:00",
     "input_file": "welcome.knit.md"
+  },
+  {
+    "path": "posts/2021-05-22-my-1st-post/",
+    "title": "My 1st Post",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Ong Chee Hong",
+        "url": "https://www.linkedin.com/in/alexongch/"
+      }
+    ],
+    "date": "2021-05-22",
+    "categories": [],
+    "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-05-22T11:26:05+08:00",
+    "input_file": "my-1st-post.knit.md"
   }
 ]
